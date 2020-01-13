@@ -85,6 +85,8 @@ All movements are available only when a game is playing, that is, users cannot m
 
 
 ## 5. Graphic User Interface
+
+```text
 							 Log:
  Best Record:		Difficulty: 			+-----------------------+
  +-----------+			    +-------+		|			|
@@ -109,6 +111,7 @@ All movements are available only when a game is playing, that is, users cannot m
 	 _|_____________|_		| |			| |
 	|_________________|		|_|			|_|
 	    A(Source)		    B(Auxiliary)	     C(Target)
+```
 
 1. Best record  - The best result (time) of the games played so far; minutes and seconds.
 		  When a user completes a game with faster play time than best record, 
