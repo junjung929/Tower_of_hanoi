@@ -45,8 +45,8 @@ Rule source: [Wikipedia: Tower of Hanoi](https://en.wikipedia.org/wiki/Tower_of_
 A game starts by clicking the 'Start' button.
 The difficulty level of the game is set to easy as default, but it is changeable before starting.
 
-Once it starts, the disks can be moved to from a peg to another by using [three different methods](#4.moving-disk-methods).
-The movement of disks is restricted by [game rules](#2.rules).
+Once it starts, the disks can be moved to from a peg to another by using [three different methods](#4-moving-disk-methods).
+The movement of disks is restricted by [game rules](#2-rules).
 
 The game can be paused or continued by clicking the 'Pause'/'Continue' button which is originally used for starting.
 
