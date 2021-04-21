@@ -185,7 +185,7 @@ void MainWindow::initializePegs()
         new_peg->setPos(x, y);
         new_peg->setBrush(colors.at(i));
 
-        QGraphicsTextItem *text = new QGraphicsTextItem(QString('A'+i));
+        QGraphicsTextItem *text = new QGraphicsTextItem(QString('A'+QChar(i)));
         text->setPos(x, 0);
         scene_->addItem(text);
 
